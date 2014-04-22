@@ -1,0 +1,6 @@
+C:\Для дела\Проекты\epam_training\epam\Inheritance_test\Extension and LINQ\Ext _and_LINQ\Ext _and_LINQ\bin\Debug\Ext _and_LINQ.exe.config
+C:\Для дела\Проекты\epam_training\epam\Inheritance_test\Extension and LINQ\Ext _and_LINQ\Ext _and_LINQ\obj\Debug\Ext _and_LINQ.csprojResolveAssemblyReference.cache
+C:\Для дела\Проекты\epam_training\epam\Inheritance_test\Extension and LINQ\Ext _and_LINQ\Ext _and_LINQ\bin\Debug\Ext _and_LINQ.exe
+C:\Для дела\Проекты\epam_training\epam\Inheritance_test\Extension and LINQ\Ext _and_LINQ\Ext _and_LINQ\bin\Debug\Ext _and_LINQ.pdb
+C:\Для дела\Проекты\epam_training\epam\Inheritance_test\Extension and LINQ\Ext _and_LINQ\Ext _and_LINQ\obj\Debug\Ext _and_LINQ.exe
+C:\Для дела\Проекты\epam_training\epam\Inheritance_test\Extension and LINQ\Ext _and_LINQ\Ext _and_LINQ\obj\Debug\Ext _and_LINQ.pdb
