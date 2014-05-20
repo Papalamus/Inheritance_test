@@ -1,0 +1,6 @@
+C:\Для дела\Проекты\epam_training\epam\Test\Patterns\Patterns\Patterns\bin\Debug\Patterns.exe.config
+C:\Для дела\Проекты\epam_training\epam\Test\Patterns\Patterns\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+C:\Для дела\Проекты\epam_training\epam\Test\Patterns\Patterns\Patterns\bin\Debug\Patterns.exe
+C:\Для дела\Проекты\epam_training\epam\Test\Patterns\Patterns\Patterns\bin\Debug\Patterns.pdb
+C:\Для дела\Проекты\epam_training\epam\Test\Patterns\Patterns\Patterns\obj\Debug\Patterns.exe
+C:\Для дела\Проекты\epam_training\epam\Test\Patterns\Patterns\Patterns\obj\Debug\Patterns.pdb
