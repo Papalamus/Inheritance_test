@@ -1,0 +1,5 @@
+C:\Для дела\Проекты\epam_training\epam\Test\Control\TextCapture\TextCapture\bin\Debug\TextCapture.dll
+C:\Для дела\Проекты\epam_training\epam\Test\Control\TextCapture\TextCapture\bin\Debug\TextCapture.pdb
+C:\Для дела\Проекты\epam_training\epam\Test\Control\TextCapture\TextCapture\obj\Debug\TextCapture.dll
+C:\Для дела\Проекты\epam_training\epam\Test\Control\TextCapture\TextCapture\obj\Debug\TextCapture.pdb
+C:\Для дела\Проекты\epam_training\epam\Test\Control\TextCapture\TextCapture\obj\Debug\TextCapture.csprojResolveAssemblyReference.cache
